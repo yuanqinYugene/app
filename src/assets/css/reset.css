@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 0.3rem;
+    line-height: 0.8rem;
+}
+img{
+    vertical-align: top;
+}
+.clearfix{
+    content: "";
+    display: block;
+    clear:both;
+}
